@@ -9,6 +9,7 @@ To publish new posts or to update and delete existing posts, users must register
 Users are required to enter unique usernames and emails as well as password twice in order to be validated into the database.
 The passwords are hashed for security.
 Once registered, user can login and is redirected to their own dashboard where they can see a list of their own posts.
+The users can also upload their profile pic in jpg or png. A default pic is provided.
 Once logged in, the navigation in top right is changed so that user can easily go to their own Dashboard, create new post, or logout.
 
 In the dashboard, user can click on existing post titles which are linked so that they can update or delete the post.
