@@ -6,6 +6,7 @@ python app.py
 
 Example login
   Email: lee@demo.com   PW: testing
+  
   Email: testuser@demo.com    PW:testing
 
 User workflow
