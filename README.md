@@ -4,10 +4,13 @@ Project Option 2: Blog Application
 
 python app.py
 
-Example login
-  Email: lee@demo.com   PW: testing
+
+Example logins
+
+Email: lee@demo.com   PW: testing
   
-  Email: testuser@demo.com    PW:testing
+Email: testuser@demo.com    PW:testing
+
 
 User workflow
 My Blog/Home - provides a list of all blog posts in reverse chronological order. Users can read them without logging in.
