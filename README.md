@@ -13,6 +13,7 @@ Email: testuser@demo.com    PW:testing
 
 
 User workflow
+
 My Blog/Home - provides a list of all blog posts in reverse chronological order. Users can read them without logging in.
 
 Register - Requires unique username(between 2-20 characters) and email. Validation is in place so an error is thrown if username or email is already in the system. Password is hashed for security. A profile pic can be updated. A default pic is provided in static folder. For existing users, a link at the bottom to signin page is provided. Once all requirements are fulfilled and user clicks the sign up bottom, a success message is given and user is redirected to login page.
