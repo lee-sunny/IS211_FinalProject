@@ -1,6 +1,6 @@
 # IS211_FinalProject
 
-Project Option 2: Blog Application
+Project Option 2: Blog Application - Used flask, SQLAlchemy, wtforms
 
 python app.py
 
